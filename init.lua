@@ -208,10 +208,10 @@ require("nvim-tree").setup({
   renderer = {
     icons = {
       show = {
-        file = false,    -- Disable file icons
-        folder = false,  -- Disable folder icons
+        file = true,    -- Disable file icons
+        folder = true,  -- Disable folder icons
         folder_arrow = true, -- Disable folder arrows
-        git = false,     -- Disable git icons
+        git = true,     -- Disable git icons
       },
     },
   },

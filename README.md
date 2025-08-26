@@ -1,8 +1,14 @@
 # 🖤 Neovim Config for React & Node
 
+
+
 Welcome to my **clean and lightweight Neovim configuration** optimized for **React** and **Node.js** development! 🚀
 
 This setup includes LSP, autocompletion, Telescope, Git integration, Nvim-Tree, and a minimal colorscheme—everything you need for an efficient workflow.
+
+<p align="center">
+  <img src="./overview.png" alt="Neovim Overview" width="800"/>
+</p>
 
 ---
 
